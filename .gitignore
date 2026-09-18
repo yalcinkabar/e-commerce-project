@@ -1,0 +1,20 @@
+# Frontend
+e-commerce/node_modules/
+e-commerce/dist/
+
+# Backend
+e-commerce-backend/target/
+e-commerce-backend/.idea/
+e-commerce-backend/*.iml
+
+# Environment / secrets
+.env
+*.env
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
